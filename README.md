@@ -1,6 +1,6 @@
 # project-Q-star
 
-# 🌌 Q* Algorithm: Navigating the Cosmos of Reinforcement Learning 🌌
+## 🌌 Q* Algorithm: Reinforcement Learning 🌌
 
 ## 🚀 Introduction
 
